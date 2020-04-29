@@ -16,3 +16,19 @@ a {
 	color: aquamarine;
 	font-size: 16px;
 }
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+h3 {
+	font-size: 21px;
+	color: gray;
+}
+
+h4 {
+	text-align: right;
+	color: gray;
+}
